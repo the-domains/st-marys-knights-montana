@@ -20,3 +20,6 @@ navigation:
   - url: 'https://stmaryscatholicschool.ascendsms.com/default.aspx'
     name: Ascend
     type: external
+  - url: 'https://online.factsmgt.com/SignIn.aspx?ReturnUrl=%2f'
+    name: FACTS
+    type: external
