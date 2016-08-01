@@ -17,9 +17,9 @@ author:
   url: www.stmaryscatholicschool.net
 name: St. Mary's Knights - Montana
 navigation:
-  - url: 'https://stmaryscatholicschool.ascendsms.com/default.aspx'
-    name: Ascend
+  - name: Ascend
+    url: 'https://stmaryscatholicschool.ascendsms.com/default.aspx'
     type: external
-  - url: 'https://online.factsmgt.com/SignIn.aspx?ReturnUrl=%2f'
-    name: FACTS
+  - name: FACTS
+    url: 'https://online.factsmgt.com/SignIn.aspx?ReturnUrl=%2f'
     type: external
